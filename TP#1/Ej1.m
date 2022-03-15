@@ -10,7 +10,7 @@
 %%%    X = Vector Solución de AX = B
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-function X = Back_Subs(A,B)
+function X = Ej1(A,B)
 
 if nargin<2
     disp('Debe ingresar Martiz Tiangular Superior y Vector Independiente');
